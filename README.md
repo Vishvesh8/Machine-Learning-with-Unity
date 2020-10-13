@@ -20,5 +20,8 @@ mlagents-learn.exe config\ppo\PlayerMaze.yaml --run-id=PlayerModel --force
 10) Obtain the saved model in results folder. Copy it into your assets and put it into your Player's Behavior parameters script.
 11) Observe the results.
 
+![Optional Text](1.png)
+![Optional Text](2.png)
+
 # What's next
 Using the system of rewards and punishments used in this project, we can train the AI to perform a variety of tasks like driving a virtual car, throwing a ball through a hoop, shooting at the target, etc.
